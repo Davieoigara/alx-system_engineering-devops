@@ -1,1 +1,1 @@
-Week one shell basics
+Display the contents list of your current directory.
