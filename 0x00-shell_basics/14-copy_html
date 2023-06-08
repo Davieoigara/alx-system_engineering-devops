@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 1 -name "*.html" -exec sh -c 'cp -n "{}" "../$(basename "{}")"' \;
+cp -u *.html ..
